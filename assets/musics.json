@@ -1,0 +1,65 @@
+[
+  {
+    "artista": "João Gomes",
+    "foto": "https://uploads.metropoles.com/wp-content/uploads/2021/07/08161116/Joao-Gomes-1-600x400.jpg",
+    "musica": "Meu pedaço de pecado",
+    "duracao": 4.00,
+    "likes": "2658",
+    "dislikes": "565",
+    "plays": "58232955"
+  },
+  {
+    "artista": "Mari Fernandez",
+    "foto": "https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/a/a/4/c/aa4c8872c436cea8451cd25c8af4f154.jpg",
+    "musica": "Não, não vou",
+    "duracao": 3.04,
+    "likes": "2758",
+    "dislikes": "165",
+    "plays": "58212955"
+  },
+  {
+    "artista": "Matheus Fernandes e Dilsinho",
+    "foto": "https://blogdogs.com.br/wp-content/uploads/2021/05/33522DB8-628B-4E4C-A073-89D2E2853C5F-540x375.jpeg",
+    "musica": "Baby me atende",
+    "duracao": 3.49,
+    "likes": "7557",
+    "dislikes": "160",
+    "plays": "66652955"
+  },
+  {
+    "artista": "DJ Guuga e DJ Ivis",
+    "foto": "https://images.suamusica.com.br/6qRtkcNv0Qavw6kcjAF_RjpWPYg=/500x500/36620407/3211576/cd_cover.jpg",
+    "musica": "Volta Bebê, Volta Neném",
+    "duracao": 5.22,
+    "likes": "7557",
+    "dislikes": "160",
+    "plays": "66652955"
+  },
+  {
+    "artista": "Sevenn, Flaremode & Dlay",
+    "foto": "https://themusicessentials.com/wp-content/uploads/2021/06/SEVENN-FLAREMODE-DLAY-THE-HILLS.jpg",
+    "musica": "The Hills",
+    "duracao": 3.09,
+    "likes": "3557",
+    "dislikes": "50",
+    "plays": "1652955"
+  },
+  {
+    "artista": "Gusttavo Lima",
+    "foto": "https://pbs.twimg.com/profile_images/1432339376063844353/dVEzhiWc_400x400.jpg",
+    "musica": "Ficha Limpa",
+    "duracao": 3.41,
+    "likes": "3557",
+    "dislikes": "50",
+    "plays": "1652955"
+  },
+  {
+    "artista": "MC Don Juan, MC Davi e MC Pedrinho",
+    "foto": "https://i2.wp.com/sobrefunk.com/wp-content/uploads/2021/05/photomix-image-13.png?resize=750%2C375&ssl=1",
+    "musica": "Bipolar",
+    "duracao": 5.39,
+    "likes": "3557",
+    "dislikes": "50",
+    "plays": "1652955"
+  }
+]

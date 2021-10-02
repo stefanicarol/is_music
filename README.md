@@ -1,8 +1,8 @@
 # ismusic
 
-A new Flutter project.
 
-## Getting Started
+
+## Aplicativo do Projeto Sociedade e Informática do CEULP/ULBRA
 
 This project is a starting point for a Flutter application.
 

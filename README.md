@@ -1,16 +1,10 @@
 # ismusic
 
-A new Flutter project.
-
+Projeto de Sociedade e Informáica - CEULP/ULBRA
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ ![image](https://user-images.githubusercontent.com/32577507/135700220-fb4fa5d9-631b-4f26-9cae-b67b89ba32f6.png)
+ ![image](https://user-images.githubusercontent.com/32577507/135700243-f64c1b07-34ac-4e52-b807-a9e1c61749ba.png)
+![image](https://user-images.githubusercontent.com/32577507/135700252-f428286d-b69a-4094-b4b8-e36811ed435d.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
